@@ -1,6 +1,6 @@
 # 联动服务商API接入文档
 
-![内部调用关系图](..\..\assets\img\trans\queryOrder\innerRela.png)
+![内部调用关系图](innerRela.png)
 
 st=>start: Start:>https://www.zybuluo.com
 
